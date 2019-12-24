@@ -1,0 +1,25 @@
+input{
+    display: block;
+    margin: 100px auto;
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    padding: 0 10px;
+    border-radius: 15px;
+}
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin: 0 auto;
+  }
+  
+  table, th, td {
+    border: 1px solid lavender;
+    text-align: center;
+    font-family: sans-serif;
+    padding: 5px 0;
+  }
+  
+  th {
+    height: 50px;
+  }
